@@ -1,6 +1,6 @@
 import React from 'react'
-import {render} from 'react-testing-library'
 import CalculatorDisplay from '../calculator-display'
+import {render} from 'calculator-test-utils'
 
 test('mounts', () => {
   const {container} = render(<CalculatorDisplay value="0" />)

@@ -12,16 +12,13 @@ exports[`mounts 1`] = `
 }
 
 <div
-  class="emotion-0"
-  id="hello"
+  class="emotion-0 emotion-1"
 >
-  <span>
-    <div
-      class="autoScalingText"
-      style="transform: scale(1,1);"
-    >
-      0
-    </div>
-  </span>
+  <div
+    class="autoScalingText"
+    style="transform: scale(1,1);"
+  >
+    0
+  </div>
 </div>
 `;
